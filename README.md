@@ -1,0 +1,1 @@
+This repo demonstrates how to manually generate signed urls with GCP.
